@@ -1,0 +1,49 @@
+            .container
+                {font-family: sans-serif;}
+            a:link
+                {text-decoration:none;}
+            header
+                {font-weight: bold; 
+                top:0;
+                width:100%;
+                overflow:hidden;
+                background-color: white;
+                position:fixed;
+                z-index: 10;}
+            #logo 
+                {font-family: monospace;
+                display:inline-block;
+                font-weight:lighter;
+                margin-left:20px;
+                position:relative;}
+            header nav
+                {text-align: center;
+                display:inline-block;
+                margin-top:10px;
+                margin-left: 110px;}
+            .intro
+                {position:relative;
+                top: 200; 
+                left:50;
+                height:620px; }
+            .intro hr
+                {width:25%;
+                margin-left:0; height:1%;
+            background-color: rgb(233, 31, 31);}
+        
+            h1
+                {font-size: 6em;}
+            body
+                {width: 100%;
+                margin: 0px;
+                padding: 0px;
+               overflow-x: hidden; }
+            #logo
+            {color: rgb(233, 31, 31); border-style:none;}
+                
+            
+
+            
+
+
+        
